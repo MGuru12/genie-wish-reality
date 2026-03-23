@@ -21,21 +21,21 @@ const products = [
     live: true,
   },
   {
-    name: "SynthAI",
-    description: "Next-gen AI content synthesis and creative automation.",
-    icon: Sparkles,
-    live: false,
-  },
-  {
-    name: "FlowX",
-    description: "Intelligent workflow automation for modern teams.",
+    name: "Vbrain",
+    description: "Complete campus automation SaaS with AI buddy, live role-based data & privilege management.",
     icon: Zap,
     live: false,
   },
   {
-    name: "NexusAPI",
-    description: "Unified API gateway for AI-powered integrations.",
+    name: "NB",
+    description: "Smart notice board platform with AI assistant, IoT integration & networking capabilities.",
     icon: Globe,
+    live: false,
+  },
+  {
+    name: "AAnimeG",
+    description: "Fully AI-powered anime generator — create stunning anime art from text prompts.",
+    icon: Sparkles,
     live: false,
   },
 ];
